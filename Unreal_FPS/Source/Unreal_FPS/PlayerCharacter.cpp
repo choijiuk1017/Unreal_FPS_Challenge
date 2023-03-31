@@ -40,13 +40,6 @@ void APlayerCharacter::BeginPlay()
 	
 }
 
-// Called every frame
-void APlayerCharacter::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
 void APlayerCharacter::MoveForward(float AxisValue)
 {
     if ((Controller != nullptr) && (AxisValue != 0.0f))

@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\Unreal_FPSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\PlayerCharacter.gen.cpp.obj"
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\Unreal_FPS.init.gen.cpp.obj"
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\Unreal_FPSGameModeBase.gen.cpp.obj"
+"C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\PlayerCharacter.cpp.obj"
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\Unreal_FPS.cpp.obj"
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\Unreal_FPSGameModeBase.cpp.obj"
 "C:\Git_Repository\Unreal_FPS_Challenge\Unreal_FPS\Intermediate\Build\Win64\UnrealEditor\Development\Unreal_FPS\Default.rc2.res"
