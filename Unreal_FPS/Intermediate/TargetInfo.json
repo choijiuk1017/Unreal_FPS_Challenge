@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_FPS",
+			"Path": "C:\\Git_Repository\\Unreal_FPS_Challenge\\Unreal_FPS\\Source\\Unreal_FPS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_FPSEditor",
+			"Path": "C:\\Git_Repository\\Unreal_FPS_Challenge\\Unreal_FPS\\Source\\Unreal_FPSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

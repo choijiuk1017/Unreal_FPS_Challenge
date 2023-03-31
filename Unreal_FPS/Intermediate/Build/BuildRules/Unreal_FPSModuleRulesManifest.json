@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Git_Repository\\Unreal_FPS_Challenge\\Unreal_FPS\\Source\\Unreal_FPS\\Unreal_FPS.Build.cs",
+		"C:\\Git_Repository\\Unreal_FPS_Challenge\\Unreal_FPS\\Source\\Unreal_FPS.Target.cs",
+		"C:\\Git_Repository\\Unreal_FPS_Challenge\\Unreal_FPS\\Source\\Unreal_FPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
